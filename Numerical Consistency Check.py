@@ -1,14 +1,14 @@
 """
 Complete GUI for Spin-Foam Euclidean Saddles Analysis
 Author: Mário Sérgio Guilherme Junior
-Version: 4.3 - PROGRESS BAR FIX
+Version: 5.0 - PROGRESS BAR FIX
 
-FIXES IN v4.3:
+FIXES IN v5.0:
 - Fixed progress bar not reaching 100% in Scaling and Sensitivity tabs
 - Added final progress emit (100%) before finishing computation
 - Added brief UI update pause for smoother completion
 
-FIXES IN v4.2:
+FIXES IN v5.0:
 - Fixed thread safety issues in Scaling and Sensitivity tabs
 - Added proper error handling and recovery
 - Improved progress bar updates
