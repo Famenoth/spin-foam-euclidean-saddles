@@ -30,7 +30,7 @@ python spin_foam_gui_v4_1.py
 
 ## 🆕 Funcionalidades v4.1
 
-### 🔮 **Tab: 3D Visualization** (NOVA!)
+### 🔮 **Tab: 3D Visualization**
 
 Visualização interativa 3D completa do espaço de Minkowski:
 
