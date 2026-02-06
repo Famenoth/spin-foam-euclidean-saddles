@@ -3,7 +3,7 @@
 Interface gráfica completa para análise numérica do artigo:
 **"Causally Confined Euclidean Saddles in Spin-Foam Quantum Gravity"**
 
-## 🎉 NEW IN v4.1: 3D Light Cone Visualization!
+## 🎉 NEW IN v5.0: 3D Light Cone Visualization!
 
 Agora com visualização interativa completa do cone de luz de Minkowski, vetores normais, e restrições de fechamento!
 
