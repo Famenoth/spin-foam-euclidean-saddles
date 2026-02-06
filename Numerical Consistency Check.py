@@ -1,9 +1,9 @@
 """
 Complete GUI for Spin-Foam Euclidean Saddles Analysis
 Author: Mário Sérgio Guilherme Junior
-Version: 5.0 - PRODUCTION READY
+Version: 5.1 - PRODUCTION READY
 
-MAJOR IMPROVEMENTS IN v5.0:
+MAJOR IMPROVEMENTS IN v5.1:
 - ✅ Centralized configuration (no magic numbers)
 - ✅ Robust input validation with user-friendly dialogs
 - ✅ Timeout protection for optimization (prevents infinite hangs)
