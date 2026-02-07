@@ -1,9 +1,9 @@
-# Spin-Foam Euclidean Saddles - GUI v4.1 ✨
+# Spin-Foam Euclidean Saddles - GUI v5.1 ✨
 
 Interface gráfica completa para análise numérica do artigo:
 **"Causally Confined Euclidean Saddles in Spin-Foam Quantum Gravity"**
 
-## 🎉 NEW IN v4.1: 3D Light Cone Visualization!
+## 🎉 NEW IN v5.1: 3D Light Cone Visualization!
 
 Agora com visualização interativa completa do cone de luz de Minkowski, vetores normais, e restrições de fechamento!
 
@@ -25,10 +25,10 @@ pip install numpy scipy matplotlib PyQt5
 ## Executando a Aplicação
 
 ```bash
-python spin_foam_gui_v4_1.py
+python spin_foam_gui_v5_1.py
 ```
 
-## 🆕 Funcionalidades v4.1
+## 🆕 Funcionalidades v5.1
 
 ### 🔮 **Tab: 3D Visualization**
 
@@ -246,9 +246,9 @@ Amarelo:      Hiperbolóide
 2. Ajuste limites dos eixos
 3. Rode mais trials para melhor convergência
 
-## 📊 Comparação v4.0 → v4.1
+## 📊 Comparação v4.0 → v5.1
 
-| Funcionalidade | v4.0 | v4.1 |
+| Funcionalidade | v4.0 | v5.1 |
 |----------------|------|------|
 | Basic Check | ✓ | ✓ |
 | Scaling | ✓ | ✓ |
@@ -296,7 +296,7 @@ Se usar este código, cite:
 ```bibtex
 @software{guilherme2025spinfoam,
   author = {Guilherme Junior, Mário Sérgio},
-  title = {Spin-Foam Euclidean Saddles Analysis Tool v4.1},
+  title = {Spin-Foam Euclidean Saddles Analysis Tool v5.1},
   year = {2025},
   note = {3D visualization of causal obstruction}
 }
